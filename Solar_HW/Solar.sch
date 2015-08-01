@@ -1952,7 +1952,7 @@ Text GLabel 3000 2900 3    60   Input ~ 0
 BATTERY_I
 Text GLabel 7950 3350 3    60   Input ~ 0
 LOAD_SWITCH
-Text GLabel 7200 1850 0    60   Input ~ 0
+Text GLabel 7200 1850 3    60   Input ~ 0
 REGULATE
 Text GLabel 6850 700  0    60   Input ~ 0
 PRE_REG_V
