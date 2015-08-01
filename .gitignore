@@ -1,0 +1,7 @@
+*.bak
+*.bck
+*.raw.
+*.log
+*.dcm
+*autosave*
+*cache*
