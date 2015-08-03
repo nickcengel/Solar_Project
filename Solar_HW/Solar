@@ -1,1 +1,51 @@
-Quantity, Reference, Digi-Key Part Number, DIGIKEY
+Quantity, Reference, Digi-Key Part Number
+C15 C28 C32 C33 C35 C36 ,6,.01u,Capacitors_SMD:C_0805_HandSoldering,,399-7995-1-ND
+C10 C16 C18 C22 C23 C24 C25 C26 C29 C30 ,10,22U,Capacitors_SMD:C_1206_HandSoldering,,1276-2727-1-ND
+C2 C3 C4 ,3,1000u,Capacitors_ThroughHole:C_Radial_D10_L16_P5,,1189-1217-ND
+C34 ,1,1u,Capacitors_SMD:C_0805_HandSoldering,,1276-1275-1-ND
+C13 C14 C20 C21 C5 C6 ,6,220U,Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5,,P5166-ND
+C1 C11 C12 C17 C19 C27 C31 C37 C38 C39 C40 C7 C8 C9 ,14,.1u,Capacitors_SMD:C_0805_HandSoldering,,1276-1003-1-ND
+D1 D2 D3 D4 ,4,MBRA340T3G,Diodes_SMD:Diode-SMA_Handsoldering,,MBRA340T3GOSCT-ND
+L1 ,1,330uH,Inductors:SELF-WE-PD-XXL,,732-1698-1-ND
+L2 ,1,22U,Inductors:self_cms_we-tpc_XL,,587-3147-1-ND
+P10 ,1,CONN_01X06,Pin_Headers:Pin_Header_Straight_1x06,
+P1 P2 P3 P5 ,4,CONN_01X02,connect-thru:1x2-SCREW-TERM_P7.5mm,,ED2578-ND
+P4 ,1,USB_A,Connect:USB_A,,ED2989-ND
+P6 P7 ,2,CONN_01X02,Pin_Headers:Pin_Header_Straight_1x02,
+P8 ,1,CONN_01X03,Pin_Headers:Pin_Header_Straight_1x03,
+P9 ,1,CONN_02X03,Pin_Headers:Pin_Header_Straight_2x03,
+Q1 Q2 Q55 Q7 ,4,IRF3704Z,SMD_Packages:DPAK-2,http://www.irf.com/product-info/datasheets/data/irf3704zpbf.pdf,IRF3704ZSPBF-ND
+Q4 Q8 ,2,PN2222A,sot:SOT23,,MMBT2222ATPMSCT-ND
+Q6 Q66 ,2,FDS4465,Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm,http://www.digikey.com/product-detail/en/FDS4465/FDS4465CT-ND/965616,FDS4465_F085CT-ND
+Q10 Q11 Q12 Q9 ,4,PNP_BEC,sot:SOT23,http://www.diodes.com/datasheets/ZXTN07045EFF.pdf,ZXTN07045EFFCT-ND
+R1 R10 ,2,330k,Resistors_SMD:R_0805_HandSoldering,,0
+R13 ,1,50m,Resistors_SMD:R_0805_HandSoldering,,CRM0805-FW-R050ELFCT-ND
+R14 R15 ,2,2.2k,Resistors_SMD:R_0805_HandSoldering,,311-2.2KARCT-ND
+R11 R16 R17 R18 R19 R2 R20 R21 R22 R25 R30 R34 R35 ,13,10k,Resistors_SMD:R_0805_HandSoldering,,RNCP0805FTD10K0CT-ND
+R23 R24 ,2,2.7k,Resistors_SMD:R_0805_HandSoldering,,311-2.7KARCT-ND
+R26 R27 ,2,12k,Resistors_SMD:R_0805_HandSoldering,,311-12.0KCRCT-ND
+R28 R29 ,2,47k,Resistors_SMD:R_0805_HandSoldering,,P47KDACT-ND
+R3 ,1,42.9k,Resistors_SMD:R_0805_HandSoldering,,P43KDACT-ND
+R31 R32 ,2,4.7k,Resistors_SMD:R_0805_HandSoldering,,311-4.70KCRCT-ND
+R33 ,1,3.3k,Resistors_SMD:R_0805_HandSoldering,,311-3.3KARCT-ND
+R4 ,1,74.4k,Resistors_SMD:R_0805_HandSoldering,,P75KDACT-ND
+R12 R5 ,2,1k,Resistors_SMD:R_0805_HandSoldering,,311-1.0KARCT-ND
+R6 ,1,180k,Resistors_SMD:R_0805_HandSoldering,,P180KDACT-ND
+R7 R8 ,2,49.3k,Resistors_SMD:R_0805_HandSoldering,,P49.9KDACT-ND
+R9 ,1,16k,Resistors_SMD:R_0805_HandSoldering,,P16KDACT-ND
+ROT1 ,1,ROTARY-ENCODER,sparkfun:SF-ROTARY-ENCODER,
+RV1 RV4 RV6 ,3,POT,Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp,
+RV2 RV3 RV5 ,3,1k,Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp,,3296W-102LF-ND
+SW1 ,1,SW_SPDT,sparkfun:SPDT_Toggle,,EG2362-ND
+U1 ,1,IR2104,SMD_Packages:SOIC-8-N,,IR2104SPBFCT-ND
+U11 ,1,DS75,SMD_Packages:SOIC-8-N,http://datasheets.maximintegrated.com/en/ds/DS75LX.pdf,DS75LXS+-ND
+U12 ,1,Teensy_3.1,Adafruit:Teensy_3.1,
+U14 U15 ,2,ACS710,Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm,,620-1682-1-ND
+U2 ,1,MCP1827,SMD_Packages:DPAK-5,http://ww1.microchip.com/downloads/en/DeviceDoc/22001d.pdf,MCP1827-ADJE/ET-ND
+U3 ,1,ESP8266,Adafruit:ESP8266_ADAFRUIT_SMD,
+U4 ,1,MAX770,SMD_Packages:SOIC-8-N,http://datasheets.maximintegrated.com/en/ds/MAX770-MAX773.pdf,MAX770ESA+-ND
+U10 U13 U5 ,3,LTV-817,Housings_DIP:DIP-4_W7.62mm,,VO618A-3-ND
+U6 ,1,LMV324,Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm,,296-9569-1-ND
+U7 ,1,LT1963,SMD_Packages:DPAK-5,http://cds.linear.com/docs/en/datasheet/1963aff.pdf,LT1963AEQ-3.3#TRPBFCT-ND
+U8 ,1,MAX1811,Housings_SOIC:SOIC-8-1EP_3.9x4.9mm_Pitch1.27mm,http://datasheets.maximintegrated.com/en/ds/MAX1811.pdf,MAX1811ESA+-ND
+U9 ,1,TL072,soic:SOIC8,,296-7194-5-ND
